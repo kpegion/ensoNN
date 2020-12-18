@@ -1,0 +1,24 @@
+name: ensonn
+channels:
+  - conda-forge        
+dependencies:
+  - python=3.6
+  - jupyterlab
+  - jupyter_client
+  - nbserverproxy
+  - netcdf4
+  - numpy
+  - cfgrib
+  - scipy
+  - xarray
+  - dask
+  - cartopy
+  - matplotlib
+  - ipywidgets
+  - eofs
+  - scikit-learn
+  - tensorflow
+  - pip
+  - pip:
+          - innvestigate
+
