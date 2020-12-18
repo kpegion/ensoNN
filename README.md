@@ -16,6 +16,6 @@ Activate your conda environment:
 
 Setup the environment to appear in Jupyter:
 
-python -m ipykernel install --user --name ensonn --display-name "Python (ensonn)"
+```python -m ipykernel install --user --name ensonn --display-name "Python (ensonn)"```
 
 Launch Jupyter and select this environment before running the example notebooks.
