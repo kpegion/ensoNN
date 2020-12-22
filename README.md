@@ -22,5 +22,6 @@ Launch Jupyter and select this environment before running the example notebooks.
 
 ## Codes
 
-Tomsetal_reproduce.ipynb is my attempt to reproduce Figures 6b, 7a, 7b from the Toms et al. 2020 paper.  
-Currently, it is very close, but I have some issues that I am not sure how to solve.  See Issues in Github.
+Tomsetal_reproduce.ipynb is my attempt to reproduce Figures 6b, 7a, 7b from the Toms et al. 2020 paper.
+
+predict_ENSO.ipynb takes the NN from Toms et al. and applies it to predicting ENSO at a specified lead time.
