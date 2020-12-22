@@ -1,4 +1,5 @@
 .ipynb_checkpoints/*
 src/.ipynb_checkpoints/*
+figs/.ipynb_checkpoints/*
 environment.bk.txt
 environment.kp.txt
